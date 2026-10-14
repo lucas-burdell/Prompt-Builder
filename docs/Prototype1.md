@@ -1,0 +1,4 @@
+Build a song in Reaper using the Reaper MCP. The song name is ${'Song Name':Text}. The genre is ${'Song Genre':Select:"Orchestra", "EDM", "Medieval"}. The BPM is ${'BPM':Text} and the expected length is ${"Expected Length":Text}. The key is ${'Key':Select:"A","B","C","D","E","F","G,"A Major","B Major","C Major","D Major","E Major","F Major","G Major","A Minor","B Minor","C Minor", "D Minor", "E Minor", "F Minor", "G Minor"}. ${'Extra Details':Text}
+
+
+Build a song in Reaper using the Reaper MCP. The song name is Midnight Lanterns. The genre is Orchestra. The BPM is 154 and the expected length is 2 minutes. The key is A Major. It must include a bell.
