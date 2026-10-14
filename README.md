@@ -237,6 +237,22 @@ Issues and pull requests are welcome. Include reproduction steps for bugs and de
 
 Before submitting code changes, run `npm test`, `npm run build`, and `cargo test --manifest-path src-tauri/Cargo.toml`. For desktop changes, also check the app with `npm run tauri dev` or a debug build.
 
+Unless explicitly agreed otherwise in writing, contributions submitted for inclusion in this project must be offered under the project's license. Only submit material you have the right to license under those terms.
+
 ## License
 
-This repository does not currently include a license file.
+Copyright © 2026 Lucas Burdell. Prompt Builder is distributed under the custom [Prompt Builder Source-Available License](LICENSE).
+
+**You may use Prompt Builder to build commercial products. You may not turn Prompt Builder, or its protected code and assets, into a commercial product without a separate written commercial license.**
+
+| Use | Allowed under this license? |
+| --- | --- |
+| Personal, educational, and research use | Yes. |
+| Internal business use, including modified versions | Yes. |
+| Creating prompts, content, or separate products for commercial work or paid client projects | Yes. Your own inputs and outputs are not restricted by this license. |
+| Sharing original or modified copies free of charge for noncommercial purposes | Yes, with the license and required notices preserved. |
+| Selling Prompt Builder or a renamed or modified version | Requires a separate written commercial license. |
+| Incorporating its code or protected assets into a commercial product, including a free tier or bundled component | Requires a separate written commercial license. |
+| Offering a commercial hosted version or selling access to its functionality | Requires a separate written commercial license. |
+
+Third-party dependencies retain their own licenses. This is a source-available license with commercial restrictions, rather than an OSI-approved open-source license. The full [license text](LICENSE) controls if this summary differs from it.

@@ -2,6 +2,7 @@
 name = "prompt-builder"
 version = "0.1.0"
 description = "Prompt Builder desktop app"
+license-file = "../LICENSE"
 authors = ["you"]
 edition = "2024"
 

@@ -1,0 +1,132 @@
+Prompt Builder Source-Available License
+Version 1.0
+
+Copyright (c) 2026 Lucas Burdell
+
+1. Scope and definitions
+
+This license applies to the original Prompt Builder source code, compiled
+software, documentation, and assets made available under this license (the
+"Software"), including copyrightable portions of those materials and modified
+versions of them. It applies only to rights the relevant copyright holder is
+entitled to grant. Third-party materials are addressed in section 6.
+
+"Commercial Offering" means a product or service offered or supplied to third
+parties for payment, subscription fees, license fees, advertising revenue, or
+other monetization. It includes free tiers, features, components, and bundled
+items of an otherwise monetized product or service.
+
+"Internal Business Use" means use by an individual or organization, including
+its employees and contractors acting on its behalf, as a tool for its own work.
+That work may include developing commercial products, performing paid client
+work, and preparing commercial deliverables. Internal Business Use does not
+include supplying the Software itself to customers as part of a Commercial
+Offering or selling customers access to its functionality.
+
+2. Permission to use, modify, and share
+
+Subject to the conditions and restrictions below, each copyright holder grants
+you a worldwide, nonexclusive, royalty-free copyright license to:
+
+(a) Download, install, run, and make copies of the Software for personal,
+    educational, research, and other noncommercial purposes.
+(b) Use the Software for Internal Business Use, including work undertaken
+    for profit.
+(c) Examine and modify the Software for any use permitted by this license.
+    Internal Business Use of modified versions is permitted.
+(d) Distribute original or modified copies free of charge for noncommercial
+    redistribution, including sharing forks, provided the distribution is not
+    monetized and is not part of a Commercial Offering.
+(e) Share copies with employees and contractors as needed for permitted
+    Internal Business Use, provided they comply with this license.
+
+These permissions apply to both source code and compiled copies.
+
+3. Commercial incorporation and commercialization are restricted
+
+Without a separate written commercial license from the relevant copyright
+holder or holders, you must not:
+
+(a) Sell, license for a fee, rent, or otherwise monetize the Software itself,
+    any copyrightable portion of it, or a modified version of it.
+(b) Incorporate, embed, bundle, link, copy, or adapt the Software or any
+    copyrightable portion of it into a Commercial Offering. This applies even
+    if the Software is only a small component, has been renamed, or has been
+    substantially modified.
+(c) Make the Software or a modified version available to third parties as a
+    commercial hosted, managed, software-as-a-service, or similar offering.
+    This includes charging for access to its functionality or monetizing that
+    access through advertising or inclusion in another Commercial Offering.
+(d) Distribute the Software or a modified version as a free component or
+    free tier of a Commercial Offering in order to avoid these restrictions.
+
+Using the Software as a tool to create or support a separate commercial product
+is permitted. Including the Software's protected code or other protected
+materials in that product is not permitted under this license.
+
+For example, a business may use Prompt Builder to prepare prompts for a paid
+application or client project. It may not copy Prompt Builder's template parser
+into that paid application, sell a renamed fork, or offer a paid hosted version
+without a separate written commercial license.
+
+4. Your inputs and outputs
+
+This license does not impose licensing conditions on your own prompts,
+templates, field values, generated text, or other work merely because you
+created, edited, saved, or processed it using the Software. You may use such
+materials for any purpose, including creating, distributing, and selling
+commercial products and services, without paying royalties or attributing
+Prompt Builder.
+
+This permission does not relicense protected Software code or other protected
+Software materials copied into an input or output. It also does not grant
+rights in material owned by third parties. Any rights and licenses already
+applicable to those materials continue to apply.
+
+5. Conditions for copies and modifications
+
+When sharing any copy or copyrightable portion of the Software:
+
+(a) Include this license and preserve applicable copyright, attribution, and
+    third-party notices.
+(b) Clearly identify modifications you made and do not present a modified
+    version as an official release by the original author.
+(c) Keep the covered Software subject to this license. You may not grant
+    recipients broader commercial rights to the covered Software than you
+    received. Each recipient obtains permissions directly from the relevant
+    copyright holders under these terms.
+
+No trademark rights or permission to imply endorsement are granted.
+
+6. Third-party materials and rights reserved
+
+Dependencies and any other materials identified as third-party materials
+remain governed by their respective licenses. This license neither replaces
+those licenses nor restricts rights granted directly by their owners. You must
+comply with their applicable terms when using or distributing them.
+
+Rights not expressly granted here are reserved. Nothing in this license limits
+rights you have under applicable law, including fair use or other statutory
+exceptions. It does not claim ownership of ideas, general functionality,
+methods of operation, or independently written code that does not copy
+protected Software material.
+
+7. Termination
+
+Permissions under this license terminate automatically if you violate its
+terms. They are reinstated if you fully correct the violation within 30 days
+after first receiving written notice of it from a relevant copyright holder.
+Reinstatement does not excuse liability for past violations. Otherwise,
+reinstatement requires that copyright holder's written permission.
+
+8. Warranty and liability
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS"
+AND "AS AVAILABLE", WITH NO EXPRESS OR IMPLIED WARRANTIES, INCLUDING
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR
+NONINFRINGEMENT. COPYRIGHT HOLDERS AND CONTRIBUTORS SHALL NOT BE LIABLE
+FOR LOSS OR DAMAGE ARISING FROM USE, DISTRIBUTION, OR MODIFICATION OF THE
+SOFTWARE, WHETHER CLAIMED UNDER CONTRACT, TORT, OR ANOTHER LEGAL THEORY.
+
+If applicable law does not permit a disclaimer or limitation above, it applies
+only to the extent that law permits.
